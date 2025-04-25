@@ -2,13 +2,12 @@ Developed a machine learning-based Travel & Tourism Recommendation System that s
 
 Key Features:
 
-Intelligent recommendation engine based on destination features and user similarity
 
-Efficient handling of destination data and user inputs
-
-Clean UI for seamless interaction and travel discovery
-
-End-to-end deployment with version control via GitHub
+- Personalized destination recommendations using content-based filtering
+- ML model built with Scikit-learn and Pandas
+- Flask-based backend for seamless integration
+- Interactive and user-friendly web interface
+- Deployed for real-time accessibility
 
 Technologies Used
 
